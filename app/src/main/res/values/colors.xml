@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDarkCard">#3646AF</color>
+    <color name="colorPrimary">#AC0FCA</color>
+    <color name="colorPrimaryDark">#A00BC2</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorAppText">#4B4748</color>
+    <color name="colorAppText2">#2E2C2C</color>
+    <color name="searchBoxBackground">#ACA6A7</color>
+
+    <color name="CardShopBackground">#5CA7E6</color>
+    <color name="CategoryContainerBackground">#17171D</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bar_edit"
+        android:title="تعديل البيانات الشخصية" />
+
+    <item
+        android:id="@+id/navigation_bar_sugg"
+        android:title="تقديم اقتراحات" />
+
+    <item
+        android:id="@+id/navigation_bar_about_app"
+        android:title="عن التطبيق" />
+
+    <item
+        android:id="@+id/navigation_bar_about_dev"
+        android:title="عن المطور" />
+
+    <item
+        android:id="@+id/navigation_bar_share"
+        android:title="مشاركة التطبيق" />
+
+</menu>

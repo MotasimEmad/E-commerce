@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fatima Store</string>
+    <string name="home">الرئيسية</string>
+    <string name="favorite">المفضلة</string>
+    <string name="card">سلة المشتريات</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="categories">الفئات</string>
+    <string name="products">المنتجات</string>
+    <string name="Morning">صباح الخير,</string>
+    <string name="Search_hint">جرب شوكلاتة تويكس</string>
+    <string name="Offer">عروض اليوم</string>
+    <string name="Product">المنتجات</string>
+    <string name="Piece">حبه</string>
+    <string name="Package">كرتونه</string>
+    <string name="Add_to_cart">اضف الى السلة</string>
+    <string name="Fav_Product">منتج مفضل</string>
+    <string name="Orders">قائمة الطلبات</string>
+    <string name="Total_Del">الاجمالي + خدمة التوصيل</string>
+    <string name="Confirm_order">تاكيد الطلب</string>
+    <string name="btn_view">عرض</string>
+    <string name="btn_logout">تسجيل الخروج</string>
+    <string name="Order_list">قائمة طلباتي</string>
+    <string name="Edit_profile">تعديل البيانات الشخصية</string>
+    <string name="About_app">عن التطبيق</string>
+    <string name="About_dev">عن المطور</string>
+    <string name="Share_app">مشاركة التطبيق</string>
+    <string name="Add_sugg">تقديم اقتراحات</string>
+    <string name="Added_to_cart">تمت الاضافة الي السلة</string>
+    <string name="Arabic">العربية</string>
+    <string name="English">الانجليزبة</string>
+    <string name="create_account_text">ليس لديك حساب؟ قم بإنشاء حساب</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="Phone_number">رقم الهاتف</string>
+    <string name="Full_name">الاسم الكامل</string>
+    <string name="Registration">إنشاء حساب</string>
+    <string name="Already">لدي حساب بالفعل !</string>
+</resources>
